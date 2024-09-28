@@ -1,6 +1,6 @@
 <!--
 <h2 align="center">
-  Welcome to Al Siam World!
+  Welcome to My World!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 -->
@@ -29,16 +29,16 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Al+Siam">「 Google Me 」</a>
+    <a href="https://www.google.com/search?q=rizkyoktan">「 Google Me 」</a>
     <br>
-    「 I am a full stack web application developer from <b>Bangladesh</b> 」
+    「 I am a full stack web application developer from <b>Indonesia</b> 」
     <br>
     <br>
   </samp>
 </p>
 
 <p align="center">
- <a href="https://rizkyoktan.com" target="blank">
+ <a href="https://rzoktan.tech" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="rizkyoktan" />
  </a>
  <a href="https://linkedin.com/in/al-siam" target="_blank">
